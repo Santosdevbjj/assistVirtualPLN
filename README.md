@@ -1,4 +1,4 @@
-## Criando sistema de assistência virtual, utilizando PLN - Processamento de Linguagem Natural.
+## Criando um sistema de assistência virtual, utilizando PLN - Processamento de Linguagem Natural.
 
 ![bairesDev](https://github.com/user-attachments/assets/5917d3f6-cd14-4f9e-9e36-68a0d71e1aa1)
 
@@ -20,7 +20,9 @@ Este projeto é um sistema de assistência virtual desenvolvido do zero, utiliza
 **Text-to-Speech (TTS):** Conversão de texto para áudio para que o assistente possa "falar".
    
   **Speech-to-Text (STT):** Conversão de áudio do microfone para texto, permitindo a compreensão dos comandos do usuário.
- * Automação: Execução de tarefas como pesquisar na Wikipedia, abrir o YouTube e buscar locais no Google Maps, acionadas por comandos de voz.
+  
+- **Automação:** Execução de tarefas como pesquisar na Wikipedia, abrir o YouTube e buscar locais no Google Maps, acionadas por comandos de voz.
+  
 
 💻 **Tecnologias e Bibliotecas Utilizadas**
 
@@ -85,24 +87,14 @@ O assistente irá começar a ouvir por comandos. Tente dizer algo como:
 ---
    
 📂 **Estrutura do Projeto**
+
 A organização do projeto segue uma estrutura modular para facilitar o desenvolvimento e a manutenção.
-assistVirtualPLN/
-├── assets/
-│   └── audio_input/      # Pasta para armazenar arquivos de áudio de teste.
-│
-├── notebooks/
-│   ├── 01_speech_recognition.ipynb # Notebook de demonstração de Speech-to-Text.
-│   └── 02_text_to_speech.ipynb     # Notebook de demonstração de Text-to-Speech.
-│
-├── src/
-│   ├── __init__.py       # Marca 'src' como um pacote Python.
-│   ├── core_functions.py # Contém as funções principais do assistente (TTS, STT, ações).
-│   └── main.py           # O ponto de entrada principal do programa.
-│
-├── .gitignore            # Ignora arquivos e pastas que não devem ser versionados.
-├── README.md             # Este arquivo.
-├── requirements.txt      # Lista de dependências do projeto.
-└── setup.py              # Arquivo de configuração para empacotar o projeto.
+
+
+
+<img width="965" height="1325" alt="Screenshot_20250921-093127" src="https://github.com/user-attachments/assets/afbc7d29-6e3c-47b8-a682-10bc52c7422e" />
+
+
 
 
 ---

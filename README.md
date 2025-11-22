@@ -126,5 +126,18 @@ Contribuições são bem-vindas! Se você tiver sugestões, melhorias ou encontr
 📄 **Licença**
 Este projeto está licenciado sob a Licença MIT.
 
+---
+
+**Contato:**
+
+
+ [![Portfólio Sérgio Santos](https://img.shields.io/badge/Portfólio-Sérgio_Santos-111827?style=for-the-badge&logo=githubpages&logoColor=00eaff)](https://santosdevbjj.github.io/portfolio/)
+[![LinkedIn Sérgio Santos](https://img.shields.io/badge/LinkedIn-Sérgio_Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santossergioluiz) 
+
+
+---
+
+
+
 
  
